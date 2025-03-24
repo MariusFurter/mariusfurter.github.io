@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-just-returned-from-a-4-month-visit-with-giole-zardini-at-mit-will-miss-the-people-but-not-the-10-c-snowflake-snowman-snowflake",
           title: 'Just returned from a 4-month visit with Giole Zardini at MIT. Will miss...',
           description: "",
+          section: "News",},{id: "news-check-out-my-new-preprint-composable-uncertainty-in-symmetric-monoidal-categories-for-design-problems-with-yujun-huang-and-gioele-zardini",
+          title: 'Check out my new preprint “Composable Uncertainty in Symmetric Monoidal Categories for Design...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
