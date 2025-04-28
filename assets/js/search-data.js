@@ -36,6 +36,9 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-my-new-preprint-composable-uncertainty-in-symmetric-monoidal-categories-for-design-problems-with-yujun-huang-and-gioele-zardini",
           title: 'Check out my new preprint “Composable Uncertainty in Symmetric Monoidal Categories for Design...',
           description: "",
+          section: "News",},{id: "news-new-paper-multivariable-prediction-model-for-suspected-ocular-myasthenia-gravis-development-and-validation-with-armin-handzic-and-konrad-weber-i-coded-the-bayesian-network-model-that-is-available-here",
+          title: 'New paper Multivariable Prediction Model for Suspected Ocular Myasthenia Gravis: Development and Validation...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
