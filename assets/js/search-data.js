@@ -39,6 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-multivariable-prediction-model-for-suspected-ocular-myasthenia-gravis-development-and-validation-with-armin-handzic-and-konrad-weber-i-coded-the-bayesian-network-model-that-is-available-here",
           title: 'New paper Multivariable Prediction Model for Suspected Ocular Myasthenia Gravis: Development and Validation...',
           description: "",
+          section: "News",},{id: "news-presented-composable-uncertainty-in-symmetric-monoidal-categories-for-design-problems-at-applied-category-theory-2025-the-slides-are-available-here",
+          title: 'Presented “Composable Uncertainty in Symmetric Monoidal Categories for Design Problems” at Applied Category...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
