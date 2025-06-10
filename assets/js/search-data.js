@@ -57,6 +57,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-6776-0704", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Marius-Furter/", "_blank");
+        },
+      },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
