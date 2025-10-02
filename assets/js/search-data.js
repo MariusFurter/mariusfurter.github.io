@@ -42,6 +42,12 @@ ninja.data = [{
           section: "News",},{id: "news-presented-composable-uncertainty-in-symmetric-monoidal-categories-for-design-problems-at-applied-category-theory-2025-the-slides-are-available-here",
           title: 'Presented “Composable Uncertainty in Symmetric Monoidal Categories for Design Problems” at Applied Category...',
           description: "",
+          section: "News",},{id: "news-our-paper-composable-uncertainty-in-symmetric-monoidal-categories-for-design-problems-has-been-featured-on-mit-news",
+          title: 'Our paper “Composable Uncertainty in Symmetric Monoidal Categories for Design Problems” has been...',
+          description: "",
+          section: "News",},{id: "news-i-m-excited-to-announce-that-i-ve-just-pushed-the-first-presentable-version-of-weightedsampling-jl-my-julia-ppl-for-building-sequential-monte-carlo-samplers",
+          title: 'I’m excited to announce that I’ve just pushed the first presentable version of...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
