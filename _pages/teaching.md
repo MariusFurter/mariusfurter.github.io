@@ -6,6 +6,10 @@ description:
 nav: true
 nav_order: 4
 ---
+
+### Applied Bayesian Modeling and Computation
+**Spring 2026.** Covers model building and inference using probabilistic programming frameworks. Course notes and worked exercises are available as an [online book](https://drawinginferences.com).
+
 ### Topology in Lean
 **Fall 2025.** Introduces students to theorem proving in Lean, by formalizing basic concepts in topology. Materials are available on [GitHub](https://github.com/MariusFurter/MAT740-Topology-in-Lean-HS25).
 
